@@ -1,7 +1,7 @@
 # 📄✏ Credit Card Fraud Project
 **Brief:** The **Credit Card Fraud Project** is a comprehensive endeavor aimed at developing systems and strategies to detect and prevent fraudulent activities related to credit card usage. It involves utilizing advanced technologies such as data analytics, machine learning, and artificial intelligence to analyze transactional data, identify suspicious patterns, and flag potentially fraudulent transactions. The project's goal is to safeguard consumers' financial information, minimize financial losses for individuals and businesses, and maintain the integrity of the global financial system.
 
-### Data Dictionary:
+## Data Dictionary:
 
 * LIMIT_BAL: This feature represents the credit limit assigned to the individual's credit card. It indicates the maximum amount of credit the person can utilize.
 
@@ -25,19 +25,19 @@
 
 
 
-### 💿 Installing
-1. Environment setup.
+## 💿 Installing
+* Environment setup.
 ```
 conda create --prefix venv python==3.8 -y
 ```
 ```
 conda activate venv/
 ````
-2. Install Requirements and setup
+* Install Requirements and setup
 ```
 pip install -r requirements.txt
 ```
-5. Run Application
+* Run Application
 ```
 python app.py
 ```
@@ -47,3 +47,44 @@ python app.py
 - Python 3.8
 - Machine learning
 - Scikit learn
+
+
+## Setup :
+
+- Clone the repository:
+```bash
+git clone https://github.com/your-username/Credit-Card-Fraud-Detection.git
+cd Credit-Card-Fraud-Detection
+```
+- Create a virtual environment (optional but recommended):
+```bash
+python -m venv venv
+```
+- Activate the virtual environment:
+  - On Windows:
+   ```bash
+   venv\Scripts\activate
+   ```
+  - On macOS/Linux:
+  ```bash
+  source venv/bin/activate
+  ```
+
+## Usage :
+
+- Open the Jupyter Notebook:
+```bash
+jupyter notebook
+```
+- Navigate to the Diamond_Price_Prediction.ipynb notebook and open it.
+- Follow the instructions in the notebook to run the code cells.
+
+## Models :
+- GaussianNB(Gaussian Naive Bayes) with an accuracy of 0.7792929292929293
+- XGBClassifier(XgBoost Classifier) with an accuracy of 0.8203030303030303
+
+## Contributing :
+If you'd like to contribute to this project, please follow the standard GitHub fork and pull request process. Contributions, issues, and feature requests are welcome!
+
+## License :
+This project is licensed under the <a href="https://github.com/SINGHxTUSHAR/Credit-Card-Fraud-Detection/blob/main/LICENSE">MIT License</a> - see the LICENSE file for details.
