@@ -1,3 +1,19 @@
+[![GitHub license](https://img.shields.io/github/license/SINGHxTUSHAR/Credit-Card-Fraud-Detection.svg)](https://github.com/SINGHxTUSHAR/Credit-Card-Fraud-Detection/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/SINGHxTUSHAR/Credit-Card-Fraud-Detection.svg)](https://GitHub.com/SINGHxTUSHAR/Credit-Card-Fraud-Detection/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/SINGHxTUSHAR/Credit-Card-Fraud-Detection.svg)](https://GitHub.com/SINGHxTUSHAR/Credit-Card-Fraud-Detection/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/SINGHxTUSHAR/Credit-Card-Fraud-Detection.svg)](https://GitHub.com/SINGHxTUSHAR/Credit-Card-Fraud-Detection/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+
+[![GitHub watchers](https://img.shields.io/github/watchers/SINGHxTUSHAR/Credit-Card-Fraud-Detection.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/SINGHxTUSHAR/Credit-Card-Fraud-Detection/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/SINGHxTUSHAR/Credit-Card-Fraud-Detection.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/SINGHxTUSHAR/Credit-Card-Fraud-Detection/network/)
+[![GitHub stars](https://img.shields.io/github/stars/SINGHxTUSHAR/Credit-Card-Fraud-Detection.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/SINGHxTUSHAR/Credit-Card-Fraud-Detection/stargazers/)
+
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/SINGHxTUSHAR/Credit-Card-Fraud-Detection)
+
+![IMG_85 (3)](https://github.com/SINGHxTUSHAR/Credit-Card-Fraud-Detection/assets/113624520/2d609a9a-6443-4657-9860-894b02aea99e)
+
+
 # Credit Card Fraud Project &#x1F4B3;
 
 **Brief:** The **Credit Card Fraud Project** is a comprehensive endeavor aimed at developing systems and strategies to detect and prevent fraudulent activities related to credit card usage. It involves utilizing advanced technologies such as data analytics, machine learning, and artificial intelligence to analyze transactional data, identify suspicious patterns, and flag potentially fraudulent transactions. The project's goal is to safeguard consumers' financial information, minimize financial losses for individuals and businesses, and maintain the integrity of the global financial system.
